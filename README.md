@@ -2,35 +2,6 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-FF4B4B)
-![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-00C4CC)
-![Groq](https://img.shields.io/badge/Groq-LLM-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-**An AI-powered Retrieval-Augmented Generation (RAG) system for comprehensive university information retrieval**
-
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Architecture](#-architecture) • [Contributing](#-contributing)
-
-</div>
-
----
-
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Configuration](#-configuration)
-- [Architecture](#-architecture)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-
 ---
 
 ## 🌟 Overview
