@@ -1,0 +1,11 @@
+streamlit
+requests
+beautifulsoup4
+pydantic
+sentence-transformers
+faiss-cpu
+groq
+python-dotenv
+tqdm
+numpy
+urllib3

@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# FAISS Index
+*.index
+*.pkl
+
+# OS files
+.DS_Store
+
+# Streamlit cache
+.streamlit/
